@@ -1,3 +1,3 @@
 select *
 from employees
-where employee_id = 100
+where employee_id = 100;
